@@ -15,9 +15,6 @@ I'm currently working on a Decentralized Social Media Application with my 2 Clas
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TahirZia-1&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TahirZia-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
