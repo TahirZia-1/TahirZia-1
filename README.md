@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Decentralized Social Media Application with my 2 Classmates<br>I'm looking for help to find suitable Scholarships<br>I'm also looking for help with small simple apps (Ideas) to deploy on Google Play Store<br>I'm currently learning to build simple apps<br>
+I'm currently working on a Decentralized Social Media Application with my 2 Classmates.<br>I'm learning Backend Engineering (by completing small tasks like TO DO list, focusing on Functionality), mainly Python, Django and SQL.
 
 
 ## 🌐 Socials:
