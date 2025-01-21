@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Decentralized Social Media Application with my 2 Classmates.<br>I'm learning Backend Engineering (by completing small tasks like TO DO list, focusing on Functionality), mainly Python, Django and SQL.
+I'm currently working on a Decentralized Social Media Application with my 2 Classmates.<br>I'm learning Backend Engineering (by completing small tasks like TO DO list, focusing on Functionality) mainly Python, Django and SQL.
 
 
 ## 🌐 Socials:
