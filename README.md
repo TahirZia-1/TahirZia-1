@@ -12,9 +12,6 @@ I'm currently working on a Decentralized Social Media Application with my 2 Clas
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TahirZia-1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirZia-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=TahirZia-1&icon=5&color=6)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/TahirZ) 
 
