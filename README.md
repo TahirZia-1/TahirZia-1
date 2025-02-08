@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Decentralized Social Media Application with my 2 Classmates.<br>I'm learning Backend Engineering (by completing small tasks like TO DO list, focusing on Functionality) mainly Python, Django and SQL.
-
+I'm currently working on a Decentralized Social Media Application with my 2 Classmates.<br>I'm learning MERN and PERN; and hopefully MEAN in future.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahirr.z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tahir-zia-6138592a9/) 
