@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently working on a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I'm learning MERN, PERN and hopefully MEAN in future.
+- 📫 How to reach me **itstahir256@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahirr.z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tahir-zia-6138592a9/) 
