@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I'm learning MERN, PERN and hopefully MEAN in future.
+I'm currently working on a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I'm learning MERN, PERN and hopefully MEAN in future.<br>I am also interested in FPGA development.<br>Right Now I am working on Nexys 4 DDR with Vivado using Verilog and SystemVerilog.<br>Completed Digital Clock and UART transmitter & Receiver in Verilog on Vivado.
 
 
 ## 🌐 Socials:
