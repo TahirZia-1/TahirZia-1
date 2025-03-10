@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I'm learning MERN, PERN and hopefully MEAN in future.<br>My Work [![Wpro](https://wpro.ai) <br>I am also interested in FPGA development. Right Now I am working on Nexys 4 DDR with Vivado using Verilog and SystemVerilog.<br>Completed a RISC-V CPU in SystemVerilog using Vivado.
+I'm currently working on a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I'm learning MERN, PERN and hopefully MEAN in future. My Work as a Backend Engineer [wpro.ai](https://www.wpro.ai).<br>I am also interested in FPGA development. Right Now I am working on Nexys 4 DDR with Vivado using Verilog and SystemVerilog.<br>Completed a RISC-V CPU in SystemVerilog using Vivado.
 
 
 ## 🌐 Socials:
