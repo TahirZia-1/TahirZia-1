@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have created (BlockConnect) a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I'm learning MERN, PERN and hopefully MEAN in future. My Work as a Backend Engineer [wpro.ai](https://www.wpro.ai)<br>I am also interested in FPGA development, Verilog & SystemVerilog.
+I have created (BlockConnect) a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I'm learning MERN, PERN and hopefully MEAN in future.<br>I am also interested in FPGA development, Verilog & SystemVerilog.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahirr.z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tahir-zia-6138592a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itstahir256@gmail.com) 
