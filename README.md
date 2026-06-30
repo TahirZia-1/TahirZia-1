@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have created (BlockConnect) a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I am also interested in FPGA development, Verilog & SystemVerilog.
+I have created (BlockConnect) a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.<br>I am also interested in FPGA development, Verilog, SystemVerilog & RISC-V.
 
 Currently a selected Trainee in IC Design & Verification training at GIKI under PSEB. (May-Sept)
 
