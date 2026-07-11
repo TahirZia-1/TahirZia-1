@@ -3,7 +3,7 @@ Check out my [Portfolio](https://tahirzia-1.github.io/Portfolio/) <br>
 
 I have created (BlockConnect) a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates. I am also interested in FPGA development, Verilog, SystemVerilog & RISC-V.
 
-Currently a selected Trainee in IC Design & Verification training at GIKI under PSEB. (May-Sept)
+Currently working as a selected Trainee in IC Design & Verification training at GIKI under PSEB. (May-Sept)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahirr.z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tahir-zia-6138592a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itstahir256@gmail.com) 
