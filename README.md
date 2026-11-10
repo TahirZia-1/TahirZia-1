@@ -1,5 +1,5 @@
 # 💫 About Me:
-Check out my [Portfolio.](https://tahirzia-1.github.io/Portfolio/) <br>
+Check out my [Portfolio](https://tahirzia-1.github.io/Portfolio/). <br>
 
 I have created [BlockConnect](https://github.com/TahirZia-1/BlockConnect) a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates. I am also interested and getting trained in FPGA development, Verilog, SystemVerilog, RISC-V & UVM. We currently use Cadence Xcelium for UVM.
 
