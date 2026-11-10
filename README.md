@@ -1,11 +1,11 @@
 # 💫 About Me:
 Check out my [Portfolio](https://tahirzia-1.github.io/Portfolio/). <br>
 
-I have created [BlockConnect](https://github.com/TahirZia-1/BlockConnect) a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates. I am also interested and getting trained in FPGA development, Verilog, SystemVerilog, RISC-V & UVM. We currently use Cadence Xcelium for UVM.
+I have created [BlockConnect](https://github.com/TahirZia-1/BlockConnect) a Decentralized Social Media Application using Blockchain (Web 3.0) with my 2 Classmates.
 
-Currently working as a Hardware Engineer. And one other thing:
+Currently working as a Hardware Engineer. 
 
-Don't love your job. Job your love.
+And one other thing: Don't love your job. Job your love.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahirr.z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tahir-zia-6138592a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itstahir256@gmail.com) 
